@@ -5,12 +5,11 @@
 # Sales Performance Analysis
 
 ## Overview
-This project focuses on analyzing sales performance data to uncover key insights and trends. By leveraging data analysis tools like Python, SQL, and Excel, along with machine learning models, we aim to provide actionable insights for improving sales strategies, understanding customer behavior, and identifying growth opportunities.
+This project uses Python to analyze sales performance data. It involves data cleaning, exploratory data analysis (EDA), and visualization to uncover key trends and insights related to sales, customer behavior, and overall performance.
 
 ## Project Objectives
 - **Analyze sales performance data:** Explore the dataset to identify key metrics such as total revenue, sales growth, and regional performance.
 - **Understand customer behavior:** Segment customers based on their purchasing patterns and analyze customer lifetime value (CLV).
-- **Predict future sales:** Build predictive models to forecast future sales trends using machine learning algorithms.
 - **Visualize findings:** Use visual storytelling to communicate insights effectively through data visualizations and reports.
 
 ## Key Features
@@ -20,19 +19,14 @@ This project focuses on analyzing sales performance data to uncover key insights
 - **Exploratory Data Analysis (EDA):**
   - Descriptive statistics to understand trends, outliers, and patterns.
   - Correlation analysis between different sales variables.
-- **Predictive Modeling:**
-  - Machine learning models such as linear regression, decision trees, and random forests to forecast future sales.
-  - Hyperparameter tuning to improve model performance.
 - **Visualization & Reporting:**
   - Visualize trends using Matplotlib, Seaborn, and Excel charts.
   - Storytelling with data techniques to present findings in a compelling and clear manner.
 
 ## Tools & Technologies
-- **Languages:** Python, SQL
+- **Languages:** Python
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-- **Database:** SQL-based queries for data extraction
-- **Data Visualization:** Matplotlib, Seaborn, Excel, Power BI
-- **Machine Learning:** Scikit-learn for regression and classification models
+- **Data Visualization:** Matplotlib, Seaborn
 
 ## How to Use
 1. **Clone the repository:**
